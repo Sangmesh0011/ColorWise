@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "PickColor",
+    "description": "Lets you choose any color on the screen using a picker tool.'",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "256": "icon.png"
+    }
+}
